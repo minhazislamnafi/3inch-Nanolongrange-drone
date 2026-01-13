@@ -5,22 +5,30 @@ A compact 3-inch long-range FPV drone designed for efficiency, stability, and ex
 
 
 
+⚠️ Disclaimer
+The use and operation of this drone may require licenses in certain countries. This project is experimental and provided without any guarantee of safety or reliability.
+
+USE AT YOUR OWN RISK.
+
+
+
+
 🔧 Specifications
 
-Frame Size: 3-inch
+Frame Size: 3-inch.
 Motors: 1104 – 4300KV
-Battery Support: 2S – 3S LiPo
-Flight Controller: Custom-designed FC
-Firmware: Betaflight
+Battery Support: 2S – 3S LiPo.
+Flight Controller: Custom-designed FC.
+Firmware: Betaflight.
 RC Protocol: ExpressLRS (ELRS)
-Navigation: GPS supported
+Navigation: GPS supported.
 
-Use Case: Long-range FPV, exploration, and experimental flight testing
+Use Case: Long-range FPV, exploration, and experimental flight testing.
 
 🧠 Key Features
 
-✨ Lightweight and efficient long-range design
-🔌 Custom flight controller hardware
-📡 Low-latency and long-range control using ELRS
-🛰️ GPS support for navigation and failsafe features
-⚙️ Fully configurable through Betaflight
+✨ Lightweight and efficient long-range design.
+🔌 Custom flight controller hardware.
+📡 Low-latency and long-range control using ELRS.
+🛰️ GPS support for navigation and failsafe features.
+⚙️ Fully configurable through Betaflight.
